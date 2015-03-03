@@ -1,6 +1,4 @@
-def dosomething
-  puts "Do something!"
-end
+feature 1
 
 def hello_world(name = "You")
   puts "Hello world #{name}!"
